@@ -820,4 +820,5 @@ MIT License
 
 Jayesh
 
-JARVIS AI OS — Spokeng
+JARVIS AI OS — Spoken English
+For Run This Code - python Jarvis.py
