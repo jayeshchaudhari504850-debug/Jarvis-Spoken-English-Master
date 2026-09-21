@@ -1,0 +1,9 @@
+SpeechRecognition==3.10.4
+pyttsx3==2.90
+PyAudio==0.2.14
+language-tool-python==2.8
+requests==2.32.3
+rich==13.9.4
+
+# NOTE: The AI conversation feature uses a LOCAL LLM via Ollama, which is a
+# separate one-time install (not a pip package). See README.md "Setup" section.
